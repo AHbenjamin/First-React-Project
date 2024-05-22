@@ -1,0 +1,14 @@
+.greeting-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:center;
+}
+
+.greeting-tittle{
+    font-size: 40px;
+}
+
+.greeting-subtitle{
+    font-size: 25px;
+}
